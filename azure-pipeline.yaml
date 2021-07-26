@@ -9,7 +9,7 @@ variables:
  Version: '0'
  # the name of an Azure artifacts feed
  azureSubscription: XXXXXXXXXXXXYour subscription Name XXXXXXXXXXXXX
- dockerContainerRegistry: bjsankar
+ dockerContainerRegistry: XXXXXXXXXXXXXXContainer redistry name(dockerhub)XXXXXXXXXXXX
  imageName: Nodejsapp
  imageTag: '$(releaseVersion)'
 
